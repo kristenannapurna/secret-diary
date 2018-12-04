@@ -1,3 +1,17 @@
+body {
+  background: pink;
+}
+
+.entries {
+  background: white;
+  padding: 20px;
+}
+
+article {
+  border: 2px dotted pink;
+  width: 60%;
+  margin: 20px auto;
+}
 .App {
   text-align: center;
 }
